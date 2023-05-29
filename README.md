@@ -1,4 +1,4 @@
 - Hi, I’m @Animenkor
 - I’m interested in Fullstack Webdesign and Apps
-- I’m currently learning PHP, Kotlin and Golang
+- I’m currently learning NodeJS, PHP, Kotlin and Golang
 - Contact: robin@animenkor.ch
